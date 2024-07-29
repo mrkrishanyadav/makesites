@@ -111,5 +111,8 @@ input[type=text], input[type=email] {
     margin-top: 20px;
     color: #666;
 }
+.icons>a{
+    color: black;
+}
 
 
